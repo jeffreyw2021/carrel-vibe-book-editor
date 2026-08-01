@@ -1,0 +1,10 @@
+{
+    "folders": [
+        {
+            "path": "../../.."
+        },
+        {
+            "path": "../../../../gluon-ai-web-agent"
+        }
+    ]
+}

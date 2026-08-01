@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+/* ── Gluon panel overrides ─────────────────────────────────────────────── */
+
+/* Combine the data attribute + class for higher specificity than the
+   component's own [data-gluon-topbar] .gluon-tb-pill rule. */
+[data-gluon-topbar].carrel-topbar .gluon-tb-pill {
+  font-size: 0.8125rem; /* up from 0.6875rem */
+}
